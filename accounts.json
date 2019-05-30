@@ -1,0 +1,26 @@
+[
+  {
+    "login": "11",
+    "password": "22",
+    "firstName": "Наталья",
+    "lastName": "Таранько"
+  },
+  {
+    "login": "ivanov123",
+    "password": "qwerty123",
+    "firstName": "Иванов",
+    "lastName": "Иван"
+  },
+  {
+    "login": "kosinetc",
+    "password": "kos123!",
+    "firstName": "Марина",
+    "lastName": "Косинец"
+  },
+  {
+    "login": "belka",
+    "password": "786512",
+    "firstName": "Людмила",
+    "lastName": "Белова"
+  }
+]

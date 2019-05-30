@@ -1,0 +1,10 @@
+{
+  "response-data": {
+    "respond-code" : 400,
+    "respond-message" : "OK"
+  },
+  "response": {
+    "firstName" : "Natallia",
+    "secondName" : "Taranko"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "response-data": {
+    "respond-code": 400,
+    "respond-message": "OK"
+  },
+  "response": {
+    "listOfTrains": [
+      {
+        "trainNumber": "605B",
+        "trainName": "Минск - Брест",
+        "trainDispatchTime": "11:01",
+        "trainArrivalTime": "15:05",
+        "requestNumberTickets": 3,
+        "fullCost": 5.85
+      },
+      {
+        "trainNumber": "605B",
+        "trainName": "Минск - Витебск",
+        "trainDispatchTime": "11:01",
+        "trainArrivalTime": "15:05",
+        "requestNumberTickets": 3,
+        "fullCost": 15.68
+      }
+    ]
+  }
+}

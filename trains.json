@@ -1,0 +1,162 @@
+[
+  {
+    "trainNumber": "657Б",
+    "trainRoute": [
+      {
+        "station": "Витебск",
+        "distance": 0,
+        "stationDispatchTime": "18:04"
+      },
+      {
+        "station": "Орша",
+        "distance": 84,
+        "stationDispatchTime": "19:30"
+      },
+      {
+        "station": "Минск",
+        "distance": 256,
+        "stationDispatchTime": "22:51"
+      },
+      {
+        "station": "Барановичи",
+        "distance": 437,
+        "stationDispatchTime": "01:51"
+      },
+      {
+        "station": "Лунинец",
+        "distance": 553,
+        "stationDispatchTime": "03:10"
+      },
+      {
+        "station": "Пинск",
+        "distance": 611,
+        "stationDispatchTime": "04:33"
+      },
+      {
+        "station": "Кобрин",
+        "distance": 733,
+        "stationDispatchTime": "06:52"
+      },
+      {
+        "station": "Брест",
+        "distance": 781,
+        "stationDispatchTime": "07:49"
+      }
+    ]
+  },
+  {
+    "trainNumber": "649Б",
+    "trainRoute": [
+      {
+        "station": "Могилев",
+        "distance": 0,
+        "stationDispatchTime": "00:45"
+      },
+      {
+        "station": "Осиповичи",
+        "distance": 136,
+        "stationDispatchTime": "03:21"
+      },
+      {
+        "station": "Минск",
+        "distance": 243,
+        "stationDispatchTime": "05:13"
+      },
+      {
+        "station": "Барановичи",
+        "distance": 386,
+        "stationDispatchTime": "07:46"
+      },
+      {
+        "station": "Береза",
+        "distance": 483,
+        "stationDispatchTime": "08:54"
+      },
+      {
+        "station": "Брест",
+        "distance": 588,
+        "stationDispatchTime": "10:12"
+      }
+    ]
+  },
+  {
+    "trainNumber": "634Б",
+    "trainRoute": [
+      {
+        "station": "Гродно",
+        "distance": 0,
+        "stationDispatchTime": "16:45"
+      },
+      {
+        "station": "Лида",
+        "distance": 132,
+        "stationDispatchTime": "18:51"
+      },
+      {
+        "station": "Молодечно",
+        "distance": 260,
+        "stationDispatchTime": "21:15"
+      },
+      {
+        "station": "Минск",
+        "distance": 3337,
+        "stationDispatchTime": "22:33"
+      },
+      {
+        "station": "Жодино",
+        "distance": 398,
+        "stationDispatchTime": "00:35"
+      },
+      {
+        "station": "Орша",
+        "distance": 549,
+        "stationDispatchTime": "03:21"
+      },
+      {
+        "station": "Могилев",
+        "distance": 623,
+        "stationDispatchTime": "05:45"
+      },
+      {
+        "station": "Кричев",
+        "distance": 723,
+        "stationDispatchTime": "08:30"
+      },
+      {
+        "station": "Комунары",
+        "distance": 773,
+        "stationDispatchTime": "09:37"
+      }
+    ]
+  },
+  {
+    "trainNumber": "601Б",
+    "trainRoute": [
+      {
+        "station": "Полоцк",
+        "distance": 0,
+        "stationDispatchTime": "19:28"
+      },
+      {
+        "station": "Витебск",
+        "distance": 102,
+        "stationDispatchTime": "21:12"
+      },
+      {
+        "station": "Орша",
+        "distance": 186,
+        "stationDispatchTime": "23:27"
+      },
+      {
+        "station": "Могилев",
+        "distance": 260,
+        "stationDispatchTime": "01:14"
+      },
+      {
+        "station": "Гомель",
+        "distance": 479,
+        "stationDispatchTime": "06:16"
+      }
+    ]
+  }
+]

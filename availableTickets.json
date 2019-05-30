@@ -1,0 +1,182 @@
+[
+  {
+    "trainNumber": "657Б",
+    "availableTickets": [
+      {
+        "date": "2019-05-23",
+        "numberOfTickets": 100
+      },
+      {
+        "date": "2019-05-24",
+        "numberOfTickets": 85
+      },
+      {
+        "date": "2019-05-25",
+        "numberOfTickets": 45
+      },
+      {
+        "date": "2019-05-26",
+        "numberOfTickets": 2
+      },
+      {
+        "date": "2019-05-27",
+        "numberOfTickets": 12
+      },
+      {
+        "date": "2019-05-28",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-29",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-30",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-31",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-06-01",
+        "numberOfTickets": 18
+      }
+    ]
+  },
+  {
+    "trainNumber": "649Б",
+    "availableTickets": [
+      {
+        "date": "2019-05-23",
+        "numberOfTickets": 100
+      },
+      {
+        "date": "2019-05-24",
+        "numberOfTickets": 85
+      },
+      {
+        "date": "2019-05-25",
+        "numberOfTickets": 0
+      },
+      {
+        "date": "2019-05-26",
+        "numberOfTickets": 1
+      },
+      {
+        "date": "2019-05-27",
+        "numberOfTickets": 12
+      },
+      {
+        "date": "2019-05-28",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-29",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-30",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-31",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-06-01",
+        "numberOfTickets": 18
+      }
+    ]
+  },
+  {
+    "trainNumber": "634Б",
+    "availableTickets": [
+      {
+        "date": "2019-05-23",
+        "numberOfTickets": 100
+      },
+      {
+        "date": "2019-05-24",
+        "numberOfTickets": 85
+      },
+      {
+        "date": "2019-05-25",
+        "numberOfTickets": 45
+      },
+      {
+        "date": "2019-05-26",
+        "numberOfTickets": 10
+      },
+      {
+        "date": "2019-05-27",
+        "numberOfTickets": 12
+      },
+      {
+        "date": "2019-05-28",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-29",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-30",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-31",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-06-01",
+        "numberOfTickets": 18
+      }
+    ]
+  },
+  {
+    "trainNumber": "601Б",
+    "availableTickets": [
+      {
+        "date": "2019-05-23",
+        "numberOfTickets": 5
+      },
+      {
+        "date": "2019-05-24",
+        "numberOfTickets": 9
+      },
+      {
+        "date": "2019-05-25",
+        "numberOfTickets": 15
+      },
+      {
+        "date": "2019-05-26",
+        "numberOfTickets": 2
+      },
+      {
+        "date": "2019-05-27",
+        "numberOfTickets": 1
+      },
+      {
+        "date": "2019-05-28",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-29",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-05-30",
+        "numberOfTickets": 0
+      },
+      {
+        "date": "2019-05-31",
+        "numberOfTickets": 4
+      },
+      {
+        "date": "2019-06-01",
+        "numberOfTickets": 18
+      }
+    ]
+  }
+]
