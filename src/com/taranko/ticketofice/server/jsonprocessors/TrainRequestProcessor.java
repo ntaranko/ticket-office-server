@@ -73,10 +73,7 @@ public class TrainRequestProcessor implements Processor {
                     jsonArray.put(oneTrainInfo);
                 }
 
-                JSONObject listOfTrains = new JSONObject();
-                listOfTrains.put("listOfTrains", jsonArray);
-                response.put("response", listOfTrains);
-
+                response.put("response", jsonArray);
             }
 
         } catch (Exception e) {

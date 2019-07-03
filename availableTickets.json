@@ -3,44 +3,76 @@
     "trainNumber": "657Б",
     "availableTickets": [
       {
-        "date": "2019-05-23",
-        "numberOfTickets": 100
+        "date": "2019-07-03",
+        "numberOfTickets": 5
       },
       {
-        "date": "2019-05-24",
-        "numberOfTickets": 85
+        "date": "2019-07-04",
+        "numberOfTickets": 5
       },
       {
-        "date": "2019-05-25",
-        "numberOfTickets": 45
+        "date": "2019-07-05",
+        "numberOfTickets": 25
       },
       {
-        "date": "2019-05-26",
+        "date": "2019-07-06",
+        "numberOfTickets": 11
+      },
+      {
+        "date": "2019-07-07",
         "numberOfTickets": 2
       },
       {
-        "date": "2019-05-27",
+        "date": "2019-07-08",
+        "numberOfTickets": 5
+      },
+      {
+        "date": "2019-07-09",
+        "numberOfTickets": 11
+      },
+      {
+        "date": "2019-07-10",
+        "numberOfTickets": 5
+      },
+      {
+        "date": "2019-07-11",
+        "numberOfTickets": 0
+      },
+      {
+        "date": "2019-07-12",
+        "numberOfTickets": 1
+      },
+      {
+        "date": "2019-07-13",
+        "numberOfTickets": 21
+      },
+      {
+        "date": "2019-07-14",
+        "numberOfTickets": 9
+      },
+      {
+        "date": "2019-07-15",
+        "numberOfTickets": 7
+      },
+      {
+        "date": "2019-07-16",
+        "numberOfTickets": 8
+      },
+      {
+        "date": "2019-07-17",
         "numberOfTickets": 12
       },
       {
-        "date": "2019-05-28",
-        "numberOfTickets": 18
+        "date": "2019-07-18",
+        "numberOfTickets": 0
       },
       {
-        "date": "2019-05-29",
-        "numberOfTickets": 18
+        "date": "2019-07-19",
+        "numberOfTickets": 8
       },
       {
-        "date": "2019-05-30",
-        "numberOfTickets": 18
-      },
-      {
-        "date": "2019-05-31",
-        "numberOfTickets": 18
-      },
-      {
-        "date": "2019-06-01",
-        "numberOfTickets": 18
+        "date": "2019-07-20",
+        "numberOfTickets": 7
       }
     ]
   },
@@ -48,44 +80,76 @@
     "trainNumber": "649Б",
     "availableTickets": [
       {
-        "date": "2019-05-23",
-        "numberOfTickets": 100
+        "date": "2019-07-03",
+        "numberOfTickets": 5
       },
       {
-        "date": "2019-05-24",
-        "numberOfTickets": 85
+        "date": "2019-07-04",
+        "numberOfTickets": 9
       },
       {
-        "date": "2019-05-25",
+        "date": "2019-07-05",
+        "numberOfTickets": 15
+      },
+      {
+        "date": "2019-07-06",
+        "numberOfTickets": 2
+      },
+      {
+        "date": "2019-07-07",
+        "numberOfTickets": 15
+      },
+      {
+        "date": "2019-07-08",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-07-09",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-07-10",
+        "numberOfTickets": 5
+      },
+      {
+        "date": "2019-07-11",
+        "numberOfTickets": 4
+      },
+      {
+        "date": "2019-07-12",
+        "numberOfTickets": 18
+      },
+      {
+        "date": "2019-07-13",
+        "numberOfTickets": 11
+      },
+      {
+        "date": "2019-07-14",
+        "numberOfTickets": 2
+      },
+      {
+        "date": "2019-07-15",
         "numberOfTickets": 0
       },
       {
-        "date": "2019-05-26",
-        "numberOfTickets": 1
+        "date": "2019-07-16",
+        "numberOfTickets": 9
       },
       {
-        "date": "2019-05-27",
-        "numberOfTickets": 12
+        "date": "2019-07-17",
+        "numberOfTickets": 14
       },
       {
-        "date": "2019-05-28",
-        "numberOfTickets": 18
+        "date": "2019-07-18",
+        "numberOfTickets": 11
       },
       {
-        "date": "2019-05-29",
-        "numberOfTickets": 18
+        "date": "2019-07-19",
+        "numberOfTickets": 9
       },
       {
-        "date": "2019-05-30",
-        "numberOfTickets": 18
-      },
-      {
-        "date": "2019-05-31",
-        "numberOfTickets": 18
-      },
-      {
-        "date": "2019-06-01",
-        "numberOfTickets": 18
+        "date": "2019-07-20",
+        "numberOfTickets": 42
       }
     ]
   },
@@ -93,44 +157,76 @@
     "trainNumber": "634Б",
     "availableTickets": [
       {
-        "date": "2019-05-23",
-        "numberOfTickets": 100
+        "date": "2019-07-03",
+        "numberOfTickets": 5
       },
       {
-        "date": "2019-05-24",
-        "numberOfTickets": 85
+        "date": "2019-07-04",
+        "numberOfTickets": 9
       },
       {
-        "date": "2019-05-25",
-        "numberOfTickets": 45
+        "date": "2019-07-05",
+        "numberOfTickets": 15
       },
       {
-        "date": "2019-05-26",
-        "numberOfTickets": 10
+        "date": "2019-07-06",
+        "numberOfTickets": 2
       },
       {
-        "date": "2019-05-27",
+        "date": "2019-07-07",
         "numberOfTickets": 12
       },
       {
-        "date": "2019-05-28",
+        "date": "2019-07-08",
         "numberOfTickets": 18
       },
       {
-        "date": "2019-05-29",
+        "date": "2019-07-09",
+        "numberOfTickets": 1
+      },
+      {
+        "date": "2019-07-10",
+        "numberOfTickets": 5
+      },
+      {
+        "date": "2019-07-11",
+        "numberOfTickets": 4
+      },
+      {
+        "date": "2019-07-12",
         "numberOfTickets": 18
       },
       {
-        "date": "2019-05-30",
-        "numberOfTickets": 18
+        "date": "2019-07-13",
+        "numberOfTickets": 11
       },
       {
-        "date": "2019-05-31",
-        "numberOfTickets": 18
+        "date": "2019-07-14",
+        "numberOfTickets": 5
       },
       {
-        "date": "2019-06-01",
-        "numberOfTickets": 18
+        "date": "2019-07-15",
+        "numberOfTickets": 3
+      },
+      {
+        "date": "2019-07-16",
+        "numberOfTickets": 11
+      },
+      {
+        "date": "2019-07-17",
+        "numberOfTickets": 14
+      },
+      {
+        "date": "2019-07-18",
+        "numberOfTickets": 30
+      },
+      {
+        "date": "2019-07-19",
+        "numberOfTickets": 0
+      },
+      {
+        "date": "2019-07-20",
+        "numberOfTickets": 4
       }
     ]
   },
@@ -138,44 +234,76 @@
     "trainNumber": "601Б",
     "availableTickets": [
       {
-        "date": "2019-05-23",
+        "date": "2019-07-03",
         "numberOfTickets": 5
       },
       {
-        "date": "2019-05-24",
+        "date": "2019-07-04",
         "numberOfTickets": 9
       },
       {
-        "date": "2019-05-25",
+        "date": "2019-07-05",
         "numberOfTickets": 15
       },
       {
-        "date": "2019-05-26",
+        "date": "2019-07-06",
         "numberOfTickets": 2
       },
       {
-        "date": "2019-05-27",
+        "date": "2019-07-07",
         "numberOfTickets": 1
       },
       {
-        "date": "2019-05-28",
+        "date": "2019-07-08",
         "numberOfTickets": 18
       },
       {
-        "date": "2019-05-29",
+        "date": "2019-07-09",
         "numberOfTickets": 18
       },
       {
-        "date": "2019-05-30",
+        "date": "2019-07-10",
         "numberOfTickets": 0
       },
       {
-        "date": "2019-05-31",
+        "date": "2019-07-11",
         "numberOfTickets": 4
       },
       {
-        "date": "2019-06-01",
+        "date": "2019-07-12",
         "numberOfTickets": 18
+      },
+      {
+        "date": "2019-07-13",
+        "numberOfTickets": 11
+      },
+      {
+        "date": "2019-07-14",
+        "numberOfTickets": 2
+      },
+      {
+        "date": "2019-07-15",
+        "numberOfTickets": 3
+      },
+      {
+        "date": "2019-07-16",
+        "numberOfTickets": 0
+      },
+      {
+        "date": "2019-07-17",
+        "numberOfTickets": 14
+      },
+      {
+        "date": "2019-07-18",
+        "numberOfTickets": 30
+      },
+      {
+        "date": "2019-07-19",
+        "numberOfTickets": 9
+      },
+      {
+        "date": "2019-07-20",
+        "numberOfTickets": 4
       }
     ]
   }
